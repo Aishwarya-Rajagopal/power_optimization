@@ -5,6 +5,10 @@ This machine learning project predicts **Zone A power consumption** in Wellingto
 📈 Project Objective
 
 > To build a robust machine learning pipeline that  forecasts power consumption using key environmental and meteorological inputs such as temperature, humidity, wind speed, solar radiation, and air quality.
+> This model can be integrated into smart grid systems and used by energy planners to:
+      - Forecast demand spikes
+      - Optimize load distribution
+      - Reduce outages and improve grid efficiency
 
 🛠️ Tools & Technologies
 
