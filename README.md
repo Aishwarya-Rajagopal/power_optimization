@@ -48,3 +48,5 @@ This machine learning project predicts **Zone A power consumption** in Wellingto
 | RMSE    | **4792.61** |
 | MAE     | **3291.09** |
 
+Streamlit output:
+<img width="1141" height="626" alt="image" src="https://github.com/user-attachments/assets/a494ac44-6019-4b40-9149-ae0de74c9cf4" />
